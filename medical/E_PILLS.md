@@ -17,4 +17,4 @@ administration while you are sleeping.
 It's simply too unpractical and it doesn't really
 provide any real benefit over injections.
 
-![]( ..\media~/e_patches_levels.jpg "")
+![]( ../media~/e_patches_levels.jpg "")
