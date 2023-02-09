@@ -1,3 +1,8 @@
+---
+layout: default
+nav_order: 1
+---
+
 # Transmaxxing
 
 Transitioning is an individualized process that can be appropriate for **anyone**, regardless of whether or not they have gender dysphoria. It is important to explore one's gender identity before beginning the transitioning process. Transitioning can involve changing one's name, clothing, pronouns, and other aspects of their identity.

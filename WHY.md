@@ -1,3 +1,8 @@
+---
+layout: default
+nav_order: 2
+---
+
 ## Why Transition / Transmaxx ##
 
 > Do not let anyone gatekeep you from transitioning

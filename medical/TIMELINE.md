@@ -3,20 +3,21 @@ While the degree to which an individual taking feminising hormone therapy will e
 
  
 
-MTF HRT effect timeline:
+### MTF HRT effect timeline
+
 |Effects|Expected Onset|Expected Maximum Effect|
 |---|---|---|
-Body fat redistribution|3-6 months|2-5 years
-Decreased muscle/mass strength|3-6 months|1-2 years
-Softening of skin/decreased oiliness|3-6 months|unknown
-Decreased libido|1-3 months|1-2 years
-Decreased spontaneous erections|1-3 months|3-6 months
-Male sexual dysfunction|variable|variable
-Breast growth|3-6 months|2-3 years
-Decreased testicular volume|3-6 months|2-3 years
-Decreased sperm production|variable|variable
-Thinning and slowed growth of body and facial hair|6-12 months|>3 years
-Male pattern baldness|No regrowth, loss stops 1-3 months|1-2 years
+|Body fat redistribution|3-6 months|2-5 years|
+|Decreased muscle/mass strength|3-6 months|1-2 years|
+|Softening of skin/decreased oiliness|3-6 months|unknown|
+|Decreased libido|1-3 months|1-2 years|
+|Decreased spontaneous erections|1-3 months|3-6 months|
+|Male sexual dysfunction|variable|variable|
+|Breast growth|3-6 months|2-3 years|
+|Decreased testicular volume|3-6 months|2-3 years|
+|Decreased sperm production|variable|variable|
+|Thinning and slowed growth of body and facial hair|6-12 months|>3 years|
+|Male pattern baldness No regrowth, loss stops |1-3 months|1-2 years|
 
  
 

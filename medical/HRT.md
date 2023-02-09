@@ -1,3 +1,9 @@
+---
+layout: default
+nav_order: 4
+has_children: true
+---
+
 # Hormone Replacement Therapy (HRT)
 
 > First off you need to raise your estrogen levels, there are several options for this (0 to 5). A high 
