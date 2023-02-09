@@ -11,6 +11,8 @@ to simply buy it at an online store https://diyhrt.cafe
 
 > Dont trust anybody that tells you the following "you are not a doctor so you dont have a right to read publicly available studies, and you dont have a right to open the dictionary and learn new words to understand the topic". That is a lie, you are a taxpayer first and you pay those scientists, they work for you in a way, so yes get into their stuff. Plus, you totally retain the human right to select a medical professional, and you do have a right to judge them, totally, absolutely yes. I do have that right.
 
+You can expect results to begin in weeks to months - See [HRT Timeline](TIMELINE)
+
 ## Anti-Androgens (AA)
 > If your testosterone is high you might benefit from an anti-androgen, this however should only be a 
 temporary solution since not having enough sex-hormones (estrogen+testosterone) will be bad for your 
