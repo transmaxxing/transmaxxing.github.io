@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 ## Sublingual estradiol administration
 > Instead of swallowing the estradiol pills you can
 let them be absorbed under the tongue, this will

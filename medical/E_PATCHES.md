@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 ## Estradiol patches
 > A general advantage with transdermal
 (through the skin) administration is that while
