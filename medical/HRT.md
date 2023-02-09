@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Hormone Replacement Therapy (HRT)
 nav_order: 4
 has_children: true
 ---

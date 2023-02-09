@@ -1,3 +1,9 @@
+---
+layout: default
+title: Estradiol
+parent: Hormone Replacement Therapy (HRT)
+---
+
 ## Estradiol
 
 Estradiol injections are the preferred method of hormone therapy for male-to-female transition, as they provide an immediate and sustained dose of the hormone. Estradiol pills and patches are less effective, but may be more convenient for some individuals looking to DIY.

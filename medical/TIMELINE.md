@@ -1,3 +1,8 @@
+---
+layout: default
+parent: Hormone Replacement Therapy (HRT)
+---
+
 ## Feminizing HRT Timeline and Effects
 While the degree to which an individual taking feminising hormone therapy will experience changes varies from person to person, the following table provides an indication of the HRT timeline.
 
