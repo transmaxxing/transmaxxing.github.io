@@ -15,4 +15,4 @@ substances.
 estradiol/day. 
 You can start on 50μg/day and then add another patch @ 25μg/day for each month
 
-![](../media~/e_patches_levels.jpg "")
+![](../media/e_patches_levels.jpg)
