@@ -1,6 +1,7 @@
 ---
 layout: default
 nav_order: 1
+permalink: /
 ---
 
 # Transmaxxing
@@ -9,13 +10,13 @@ Transitioning is an individualized process that can be appropriate for **anyone*
 
 Gender dysphoria is not a requirement for transitioning, and some people may choose to transition without seeking gender-affirming treatments. Ultimately, it is up to the individual to decide when transitioning is appropriate for them.
 
-***Transmaxxing*** is recognizing that by transitioning, you will gain net positive life improvments as a passing female. The [Transmaxxing Manifesto]() is a document containing thorough aggregation of scientific studies with an analysis of the results supporting maximization of personal improvement through gender transition. These pages provide quick summaries of the content discussed in-depth in the manifesto.
+***Transmaxxing*** is recognizing that by transitioning, you will gain net positive life improvments as a passing female. The [Transmaxxing Manifesto](https://archive.org/details/transmaxxing9) is a document containing thorough aggregation of scientific studies with an analysis of the results supporting maximization of personal improvement through gender transition. These pages provide quick summaries of the content discussed in-depth in the manifesto.
 
 [*Should I Transmaxx?*](WHY)
 
 Starting [hormone replacement therapy (HRT)](medical/HRT) is the first step when you have decided to transition.
 
-The [Transmaxxing Manifesto]() suggests the following:
+The [Transmaxxing Manifesto](https://archive.org/details/transmaxxing9) suggests the following:
 
 
 > It is also very much ideal for learning how to behave as a female in order to not stand out since people 
