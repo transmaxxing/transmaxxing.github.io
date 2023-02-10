@@ -25,12 +25,13 @@ HRT can be safer and more effective that official prescription
 <details>
 <summary><b><font size="+1">Physical Characteristics</font></b></summary>
 
-|Reason|a |
-|---|--|
-| test | test |
-
 {% for reason in site.data.physical -%}
-    |:heavy_check_mark: {{ reason.positive }} |:x: {{ reason.negative }} |
+    :heavy_check_mark: {{ reason.positive }} 
+    
+    :x: {{ reason.negative }}
+
+
+    
 {%- endfor -%}
 
 </details>
