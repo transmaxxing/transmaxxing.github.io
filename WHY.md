@@ -27,11 +27,9 @@ HRT can be safer and more effective that official prescription
 
 {% for reason in site.data.physical -%}
     :heavy_check_mark: {{ reason.positive }} 
-    
+    <br>
     :x: {{ reason.negative }}
-
-
-    
+    <br><br>
 {%- endfor -%}
 
 </details>
