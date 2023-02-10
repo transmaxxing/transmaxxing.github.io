@@ -6,3 +6,8 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+
+callouts:
+  highlight:
+    color: pink
+    opacity: 0.3

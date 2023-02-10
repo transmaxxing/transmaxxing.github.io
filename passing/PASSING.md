@@ -17,3 +17,13 @@ easier, at least not short-term. If you are not willing to ever transition socia
 start HRT in the first place. The last thing you want to do is to half-ass your transition where you 
 basically transition to nowhere in an attempt to deal with gender dysphoria or because you have some 
 sexual reasons for doing so
+
+Weight loss/Health management
+Feminising workouts
+Hair removal
+Sperm Banking
+How to gradually social transition 
+
+Makeup
+Haircare
+Wardrobe

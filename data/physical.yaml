@@ -1,0 +1,14 @@
+- positive: Your height is lower than 185cm, and preferably less than 176cm 
+  negative: Your height is above 185cm
+- positive: You are less than 25 years old (most bones fused)
+  negative: You are over 25
+- positive: Physical strength is less important to you than other qualities 
+  negative: You value or require physical strength for other goals
+- positive: You would rather compete mentally or emotionally
+  negative: Physical competition, grit, and drive is important for you
+- positive: There's no family history of health issues that might affect HRT
+  negative: You have illnesses that might affect successful transition or HRT
+- positive: Appearance such as hair growth, skin health, and aging hold high value
+  negative: Things like appearance do not matter to you at all
+- positive: You desire for yourself female physical characteristics such as breasts
+  negative: You are ok with your male physical characteristics

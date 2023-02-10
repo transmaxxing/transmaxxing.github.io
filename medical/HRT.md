@@ -20,6 +20,8 @@ to simply buy it at an online store https://diyhrt.cafe
 
 You can expect results to begin in weeks to months - See [HRT Timeline](TIMELINE)
 
+[Blood Testing](TESTING) is one indicator of HRT efficacy, but is not the only guidemark that should be followed.
+
 ## Anti-Androgens (AA)
 > If your testosterone is high you might benefit from an anti-androgen, this however should only be a 
 temporary solution since not having enough sex-hormones (estrogen+testosterone) will be bad for your 

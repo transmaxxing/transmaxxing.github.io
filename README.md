@@ -6,7 +6,7 @@ permalink: /
 
 # Transmaxxing
 
-Transitioning is an individualized process that can be appropriate for **anyone**, regardless of whether or not they have gender dysphoria. It is important to explore one's gender identity before beginning the transitioning process. Transitioning can involve changing one's name, clothing, pronouns, and other aspects of their identity.
+Transitioning is an individualized process that can be appropriate for **anyone**, regardless of whether or not they have gender dysphoria. Transitioning can involve changing one's name, clothing, pronouns, and other aspects of their identity.
 
 Gender dysphoria is not a requirement for transitioning, and some people may choose to transition without seeking gender-affirming treatments. Ultimately, it is up to the individual to decide when transitioning is appropriate for them.
 

@@ -3,6 +3,10 @@ layout: default
 nav_exclude: true
 ---
 
+Oral estradiol (swallowing) gives stable levels but is ineffective. Sublingual estradiol is effective but will cause unstable levels.
+
+Alternative compoundings for buccal absorption are also practical, but not widespread [such as Estradiol Gum](https://stickies.neocities.org/stickies)
+
 ## Sublingual estradiol administration
 > Instead of swallowing the estradiol pills you can
 let them be absorbed under the tongue, this will
