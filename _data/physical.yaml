@@ -1,7 +1,7 @@
 - positive: Your height is lower than 185cm, and preferably less than 176cm 
   negative: Your height is above 185cm
-- positive: You are less than 25 years old (most bones fused)
-  negative: You are over 25
+- positive: You are less than 20 years old
+  negative: You are over 24  (most bones have fused)
 - positive: Physical strength is less important to you than other qualities 
   negative: You value or require physical strength for other goals
 - positive: You would rather compete mentally or emotionally

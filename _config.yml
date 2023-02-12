@@ -13,3 +13,8 @@ callouts:
   highlight:
     color: purple
     opacity: 0.3
+
+# Aux links for the upper right navigation
+aux_links:
+  "Transmaxxing Manifesto":
+    - "https://archive.org/details/transmaxxing9"

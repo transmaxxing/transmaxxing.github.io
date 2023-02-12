@@ -37,20 +37,24 @@ HRT can be safer and more effective that official prescription
 
 <details>
 <summary><b><font size="+1">Mental Characteristics</font></b></summary>
-Gender Dysphoria
-Demeanor Preferences
-Lowered / Eliminated compulsion
-Past Trauma
+
+{% for reason in site.data.mental -%}
+    :heavy_check_mark: {{ reason.positive }} 
+    <br>
+    :x: {{ reason.negative }}
+    <br><br>
+{%- endfor -%}
+
 </details>
 
 <details>
 <summary><b><font size="+1">Social Characteristics</font></b></summary>
-Attention
-Broader Social Support
-Family
-Friends
-Job
-Residence area
-Equal Access to programs and spaces
-Finding a partner that matches your needs
+
+{% for reason in site.data.social -%}
+    :heavy_check_mark: {{ reason.positive }} 
+    <br>
+    :x: {{ reason.negative }}
+    <br><br>
+{%- endfor -%}
+
 </details>
