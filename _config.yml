@@ -14,7 +14,7 @@ callouts:
     color: purple
     opacity: 0.3
 
-# Aux links for the upper right navigation
-aux_links:
-  "Transmaxxing Manifesto":
-    - "https://archive.org/details/transmaxxing9"
+# External navigation links
+nav_external_links:
+  - title: Transmaxxing Manifesto
+    url: "https://archive.org/details/transmaxxing9"
