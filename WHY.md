@@ -6,8 +6,8 @@ nav_order: 2
 ## Why Transition / Transmaxx
 
 > Do not let anyone gatekeep you from transitioning
-You may be in doubt and thus ask people close to you or a gender clinic you should transition are 
-allowed to his is not a good idea.
+You may be in doubt and thus ask people close to you or a gender clinic "should you transition/ are you
+allowed" - this is not a good idea.
 >
 > It's very unlikely anyone close to you has a proper understanding of the consequences that come with 
 transitioning, what the pros and cons will be for you. If your family of origin is transphobic just 
