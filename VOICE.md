@@ -36,7 +36,11 @@ https://www.reddit.com/r/transvoice/comments/d3clhe/ls_voice_training_guide_leve
 {: .highlight }
 > Many transfemales experience dysphoria when they are unable to express themselves in a way that matches their gender identity. Voice training can help to bridge this gap, allowing them to speak in a way that is more aligned with their gender identity.
 
-<Coming Soon - Recommended Video/Audio>
+There are some audio/video media on YouTube that can offer insight into the process of voice training
+
+* Finding Your Female Voice - A tutor that has tips and recorded consultations [FYFV](https://www.youtube.com/watch?v=mO41CpUW7IM&list=UL5u399BgzMTs)
+
+*(More recommended audio/video soon)*
 
 {: .highlight }
 > Voice training can help to improve communication. Transfemales may find it difficult to communicate effectively in both personal and professional contexts, due to the social stigma associated with their voice. Voice training can help them to develop a stronger and more confident speaking voice, which can help to reduce the stigma and improve communication.
@@ -48,6 +52,8 @@ Websites and apps also exist to help gauge your progress
 
 * Voice Pitch Analyzer - One app among many that measures *only* pitch. Useful for pitch progress, but not the only measure
 [iOS](https://apps.apple.com/us/app/voice-pitch-analyzer/id1302785788) & [Android](https://play.google.com/store/apps/details?id=de.lilithwittmann.voicepitchanalyzer&gl=US)
+
+* Soundcloud, etc - Upload clips that can be analyzed by others, with tips on how to improve
 
 {: .highlight }
 > Its possible to reduce the risk of dysphonia by teaching them techniques to use their voices in a safe and healthy way. This includes learning how to use the correct vocal techniques, such as proper breath support and pitch control, as well as how to avoid vocal strain and abuse. Voice training may also include instruction on how to speak in a lower register, which can help reduce the risk of dysphonia.
