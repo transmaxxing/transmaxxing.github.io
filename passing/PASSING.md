@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 5
-has_children: false
+has_children: true
 ---
 
 # Passing as Female
@@ -18,12 +18,26 @@ start HRT in the first place. The last thing you want to do is to half-ass your 
 basically transition to nowhere in an attempt to deal with gender dysphoria or because you have some 
 sexual reasons for doing so
 
-Weight loss/Health management
-Feminising workouts
-Hair removal
-Sperm Banking
-How to gradually social transition 
+After you start [HRT](../medical/HRT) and begin [Voice Training](../VOICE) you might want to start a social transiton.
 
-Makeup
-Haircare
-Wardrobe
+## Social Transition
+
+It has been envogue to come out all at once in a big way, presenting your new identity to those you know. To some this can be stressful and prevent you from doing this.
+
+Alternatively you could pursue [Gradual Methods](social/GRADUAL), which acclimates your social circle and family to your new identity.
+
+If this is not an option or if you live in a trans-unfriendly place, you can consider moving and adopting your new identity as a fresh start.
+
+Feminine appearance only gives part of the story - you won't pass as a female by using learned masculine social cues and mannerisms. You need to learn the subtleties of [Acting Feminine](social/MANNERISMS).
+
+## Physical Appearance
+
+Expressing a feminine physical appearance involves more than just your [Wardrobe](physical/WARDROBE) and [Makeup](physical/MAKEUP), although these are key parts that you can use to establish your identity.
+
+Even before beginning a social transition there are steps that you can take to enhance your physical appearance, and physical appeal.
+
+Proper [Hygiene](physical/HYGIENE) will help to accelerate the beautifying effects of HRT. Soft skin is appealing to you, and any partners! Even pictures can show proper hygiene standards, and shows that you respect yourself and have confidence.
+
+[Fitness Routines](physical/FITNESS) can help with the buildup of female muscular structure and fat distribution. 
+
+As you decide on the type of [Aesthetics]() you want to build, you may want to consider both [Hair Removal](physical/HAIR_REMOVAL) and getting a new [Hair Style](physical/HAIR_STYLING). *Have fun with this, you have more options now than ever before!*
