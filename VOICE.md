@@ -16,13 +16,13 @@ Some insurance or government programs may cover speech therapy and offer persona
 
 > As long as you follow these instructions, and don't try and do it all in one go, you will find your feminine voice. When a step say practice, that means until you have mastered it, NOT just do it for ten minutes and move on. Mastery of the larynx is the only way to reach the kind of vocal control you will need. If you cannot shift your larynx at will, you will not sound good. PRACTICE PRACTICE PRACTICE!
 
-https://www.reddit.com/r/asktransgender/comments/1ske7b/mtf_voice_training_regimen/
+[https://www.reddit.com/r/asktransgender/comments/1ske7b/mtf_voice_training_regimen/](https://www.reddit.com/r/asktransgender/comments/1ske7b/mtf_voice_training_regimen/)
 
 ### Lena's Shortcut to vocal training
 
 A condensed version that explains physiologically (with drawings) a similar process to the above
 
-http://lena.kiev.ua/voice/
+[http://lena.kiev.ua/voice/](http://lena.kiev.ua/voice/)
 
 
 ### A step-by-step guide to vocal training
@@ -31,7 +31,7 @@ http://lena.kiev.ua/voice/
 >
 > Your voice is much more malleable than you may realize. There are at least a dozen different dimensions that you can learn to control independently to change the sound of your voice. The way you talk right now is not your one "true" voice, it is a habit. A habit that can be changed, if you so choose.
 
-https://www.reddit.com/r/transvoice/comments/d3clhe/ls_voice_training_guide_level_1_for_mtf/
+[https://www.reddit.com/r/transvoice/comments/d3clhe/ls_voice_training_guide_level_1_for_mtf/](https://www.reddit.com/r/transvoice/comments/d3clhe/ls_voice_training_guide_level_1_for_mtf/)
 
 {: .highlight }
 > Many transfemales experience dysphoria when they are unable to express themselves in a way that matches their gender identity. Voice training can help to bridge this gap, allowing them to speak in a way that is more aligned with their gender identity.
@@ -47,7 +47,7 @@ There are some audio/video media on YouTube that can offer insight into the proc
 
 Websites and apps also exist to help gauge your progress
 
-* https://acousticgender.space/ - Web based analysis with pitch and resonance
+* [https://acousticgender.space/](https://acousticgender.space/) - Web based analysis with pitch and resonance
 
 
 * Voice Pitch Analyzer - One app among many that measures *only* pitch. Useful for pitch progress, but not the only measure
