@@ -30,6 +30,8 @@ temporary solution since not having enough sex-hormones (estrogen+testosterone) 
 health and this will be worse if it is prolonged and severe. There are cheap and effective options such as
 "cyproterone Acatate" (up to 12.5mg/day) and bicalutamide (up to 50mg/day).
 
+While Spironolactone (spiro) is used in some countries as an AA - it's weak effect and higher risks makes it unappealing as a consistent AA for longer term use. In general, minimizing length of use for AA is desired.
+
 ## Estradiol
 
 HRT typically involves taking anti-androgens to block male hormones and estrogen and progestin to induce feminine characteristics. Common physical changes from this therapy include decreased body and facial hair, decreased muscle mass, breast growth, and softer skin.
