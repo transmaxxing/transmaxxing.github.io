@@ -8,7 +8,9 @@ parent: Passing as Female
 
 Let's get the basics out of the way - you should already be familiar with acceptable hygiene. If not, you need to start here.
 
-After beginning HRT you will [notice changes](../../medical/TIMELINE), like softened skin, less oily skin, changes in hair growth (thickness and hair oils), and changes in body scent and pheromones.
+After beginning HRT you will [notice changes](../../medical/TIMELINE), like softened skin, less oily skin, changes in hair growth (thickness and hair oils), and changes in body scent and pheromones. Consider using moisturizers and lotion on your body to prevent dry skin. Experiment to find the best kind for your skin!
+
+You may also want to add feminine scents such as perfume if you want to accentuate yourself - a little goes a long way though, especially for feminine presence.
 
 ## Showers and Cleanliness
 
