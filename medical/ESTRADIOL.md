@@ -20,6 +20,11 @@ Estradiol patches are a form of hormone therapy for male-to-female transition. P
 
 ## Reference Titration Dosages
 
+{: .highlight }
+> You may want to skip anti-androgens completely and start at the week 4 to 8 dosage. *** Monotherapy may carry the least health risks ***
+>
+> If you are going to use an Anti-Androgen short term low dose cypro (10mg/day or less) is probably the best option.
+
 ![](../media/estradiol_dosages.jpg "Estradiol Reference Dosages")
 
 ![](../media/injections_levels.png)
