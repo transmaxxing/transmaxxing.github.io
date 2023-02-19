@@ -24,11 +24,17 @@ If you intend to shave in the shower get a razer and cream developed for feminin
 
 Establishing a skin care routine will be effective to keep your skin looking healthy and youthful. It helps to remove dirt and oil that can clog pores and cause breakouts - skin changes with HRT can sometimes lead to dry skin an clogged pores. It also helps to keep your skin hydrated and nourished, which can help to reduce the appearance of wrinkles and fine lines. Additionally, a skin care routine including sunblock can help to protect your skin from environmental damage, such as sun damage and pollution. It can help to boost your self-confidence, as it can make you feel more comfortable in your own skin as a more feminine appearance develops. You may need to experiment to find the right products for your skin type.
 
+{: .highlight }
+> Moisturizer and sunscreen is not just for your face!
+
+
 ![](../../media/skincare.png)
 
 ## Hair Care
 
 *** You will want to avoid washing your hair everday ***
+
+You can use a dry shampoo to push wash day, or use after exercise to get a cleaner feeling and prevent oily hair.
 
 Depending on the style you choose, your hair care routine may be different. Most transwomen opt for longer hairstyles that appear more feminine - But you can choose many other styles that might suit you. See [Hair Styling](HAIR_STYLING)
 
