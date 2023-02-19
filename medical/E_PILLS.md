@@ -26,4 +26,6 @@ administration while you are sleeping.
 It's simply too unpractical and it doesn't really
 provide any real benefit over injections.
 
+Taking pills orally (not buccal or sublingual) also has direct effect on liver function, and is not recommended as a primary input.
+
 ![]( ../media/e_pills_levels.jpg)

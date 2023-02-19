@@ -18,7 +18,7 @@ Estradiol pills are another form of hormone therapy for male-to-female transitio
 ## Estradiol Patches
 Estradiol patches are a form of hormone therapy for male-to-female transition. Patches are applied to the skin and provide a sustained release of the hormone. While patches are less effective than injections, they are more effective than pills, and may provide a more consistent dose of estradiol (3). See [About Patches](E_PATCHES)
 
-## Reference Dosages
+## Reference Titration Dosages
 
 ![](../media/estradiol_dosages.jpg "Estradiol Reference Dosages")
 
