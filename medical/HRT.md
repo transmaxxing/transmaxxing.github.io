@@ -43,8 +43,8 @@ dosage: 200mg Sublingual (under the tongue) or rectal QHS at bedtime
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9160650/
 https://academic.oup.com/jcem/article/104/4/1181/5270376
 
-Progesterone has been shown to promote the formation of Type II lobules in breast tissue. The hypothesis is that Type I & II lobules form under estrogen/progesterone cycles during puberty, with Type I lobules forming primarily under estrogen cycles and Type II lobules under progesterone cycles.
+Progesterone has been shown to promote the formation of Type II lobules in breast tissue. Type II lobules have 4x the number of milk ductules, and thus more mass/volume. The hypothesis is that Type I & II lobules form under estrogen/progesterone cycles during puberty, with Type I lobules forming primarily under estrogen cycles and Type II lobules under progesterone cycles.
 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4596764/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4596764/)
 
-Further cycling during pregnancy with progesterone matures lobules to Type III - mature breast tissue. This tissue is also [less susceptible to breast cancers](https://www.bcpinstitute.org/brochure---reproductive-risks.html#:~:text=Type%201%2C%202%20%26%203%20lobules%20are%20differentiated,female%20hormones%2C%20estrogen%20and%20progesterone%2C%20during%20menstrual%20cycles.).
+Further cycling during pregnancy with progesterone matures lobules to Type III - mature breast tissue. This tissue is also [less susceptible to breast cancers](https://www.bcpinstitute.org/brochure---reproductive-risks.html#:~:text=Type%201%2C%202%20%26%203%20lobules%20are%20differentiated,female%20hormones%2C%20estrogen%20and%20progesterone%2C%20during%20menstrual%20cycles.). Type II tissue is also significantly more resistant to cancers than immature Type I tissue.
