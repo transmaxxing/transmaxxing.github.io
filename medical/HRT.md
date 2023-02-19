@@ -31,9 +31,9 @@ health and this will be worse if it is prolonged and severe. There are cheap and
 "cyproterone Acatate" (up to 12.5mg/day) and bicalutamide (up to 50mg/day).
 
 <details>
-<summary><b>CPA Effects on Testosterone</font></b></summary>
+<summary><b>CPA Effects on Testosterone</b></summary>
 
-![](../media/cyproterone_acetate_1.png)
+<img src="../media/cyproterone_acetate_1.png" alt="" title="">
 
 </details>
 
