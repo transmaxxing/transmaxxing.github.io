@@ -27,7 +27,7 @@ The blood clotting risk relative to the effective dosage is higher for oral admi
 than taking birth control as cis female. 
 [link](https://www.prnewswire.com/news-releases/studies-find-that-transgender-hormone-therapy-is-less-risky-than-birth-control-pills-300770439.html)
 
-# TODO - verify
+
 References:
 1. Coleman, E., Bockting, W., Botzer, M., Cohen-Kettenis, P., DeCuypere, G., Feldman, J., & Meyer, W. (2011). Standards of care for the health of transsexual, transgender, and gender-nonconforming people, version 7. International Journal of Transgenderism, 13(4), 165-232.
 2. Gooren, L. J., & Giltay, E. J. (2006). Long-term treatment of transsexuals with cross-sex hormones: extensive personal experience. Journal of Clinical Endocrinology & Metabolism, 91(2), 499-505.
