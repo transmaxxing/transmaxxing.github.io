@@ -22,6 +22,9 @@ Estradiol patches are a form of hormone therapy for male-to-female transition. P
 
 ![](../media/estradiol_dosages.jpg "Estradiol Reference Dosages")
 
+![](../media/injections_levels.png)
+
+
 ## Safety
 The blood clotting risk relative to the effective dosage is higher for oral administration but it's still safer
 than taking birth control as cis female. 
