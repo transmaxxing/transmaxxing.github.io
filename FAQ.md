@@ -12,6 +12,7 @@ nav_order: 7
 { faq.answer }
 {% if faq.image %}
 <img src="{ faq.image }" alt="" title="">
+{% endif %}
 
 </details>
 {%- endfor -%}
