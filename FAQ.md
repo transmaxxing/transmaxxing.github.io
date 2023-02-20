@@ -3,15 +3,15 @@ layout: default
 nav_order: 7
 ---
 
-# Frequently Asked Questions about Transmaxxing
+# Frequently Asked Questions
 
 {% for faq in site.data.faq -%}
 <details>
-<summary><b>{ faq.question }</b></summary>
+<summary><b>{{ faq.question }}</b></summary>
 
-{ faq.answer }
+{{ faq.answer }}
 {% if faq.image %}
-<img src="{ faq.image }" alt="" title="">
+<img src="{{ faq.image }}" alt="" title="">
 {% endif %}
 
 </details>
