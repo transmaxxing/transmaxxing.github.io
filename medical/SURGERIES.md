@@ -34,3 +34,5 @@ This will also make you permanently infertile and thus the only way for you to h
 
 ## Breast Augmentation
 If you look at natural vs enhances breasts you will see a very clear difference, you can tell it's fake when it's fake (few exceptions) and it doesn't look right. A proper HRT regimen is effective in achieving mature breast development. If BA is desired be informed of the risks which include infection - which may even result in mastectomy. Proper surgical precautions are essential.
+
+<!-- #TODO - fat grafting-->
