@@ -4,9 +4,9 @@ nav_order: 7
 ---
 
 <style type="text/css">
-img.resize {
+img {
     max-height: 500px;
-    height: 70%;
+    height: 100%;
     width: auto;
 }
 </style>
