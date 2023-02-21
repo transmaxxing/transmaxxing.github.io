@@ -11,6 +11,16 @@ Estradiol injections are the preferred method of hormone therapy for male-to-fem
 
 ## Estradiol Injections
 Estradiol injections are a commonly used hormone therapy for male-to-female transition. Injections are the most effective way of administering estradiol, as they provide an immediate and sustained dose of the hormone. According to the World Professional Association for Transgender Health (WPATH) Standards of Care, ***injections of estradiol are the preferred method of estrogen therapy for those transitioning from male to female*** (1).
+<br>
+
+<details>
+<summary><b>Proper Intra-Muscular (IM) Injection</b></summary>
+
+<img src="../media/injection-site.png" alt="" title="">
+
+</details>
+
+<br>
 
 ## Estradiol Pills
 Estradiol pills are another form of hormone therapy for male-to-female transition. Pills are less effective than injections, and may require higher doses to achieve the same effect. Additionally, estradiol pills can be difficult to absorb and may cause gastrointestinal side effects (2). See [About Pills](E_PILLS)
