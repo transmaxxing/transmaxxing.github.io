@@ -19,6 +19,7 @@ img {
 
 {{ faq.answer }}
 {% if faq.image %}
+<br>
 <img src="{{ faq.image }}" alt="" title="">
 {% endif %}
 
