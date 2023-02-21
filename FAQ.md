@@ -3,6 +3,8 @@ layout: default
 nav_order: 6
 ---
 
+# Frequently Asked Questions
+
 <style type="text/css">
 img {
     max-height: 500px;
@@ -10,8 +12,6 @@ img {
     width: auto;
 }
 </style>
-
-# Frequently Asked Questions
 
 {% for faq in site.data.faq -%}
 <details>
