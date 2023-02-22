@@ -40,6 +40,8 @@ There are some audio/video media on YouTube that can offer insight into the proc
 
 * Finding Your Female Voice - A tutor that has tips and recorded consultations [FYFV](https://www.youtube.com/watch?v=mO41CpUW7IM&list=UL5u399BgzMTs)
 
+* Trans Voice lessons for complete beginners [Here](https://youtu.be/BfCS01MkbIY)
+
 *(More recommended audio/video soon)*
 
 {: .highlight }
