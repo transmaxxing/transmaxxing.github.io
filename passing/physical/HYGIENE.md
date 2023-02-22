@@ -2,6 +2,7 @@
 layout: default
 title: Hygiene
 parent: Passing as Female
+nav_order: 1
 ---
 
 # Hygiene - a Feminine Approach

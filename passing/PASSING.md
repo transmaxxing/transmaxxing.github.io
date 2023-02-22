@@ -28,6 +28,15 @@ Alternatively you could pursue [Gradual Methods](social/GRADUAL), which acclimat
 
 If this is not an option or if you live in a trans-unfriendly place, you can consider moving and adopting your new identity as a fresh start.
 
+{: .highlight }
+> ***How Can You Start Planning a Social Transition?*** 
+>
+> Start a Pinterest account to brainstorm ideas about (what kind of life I want to live after transitioning, how I want to dress, and how I want my body to look)
+>
+> Go window shopping in the ladies section - this will be your inspiration to move forward with transitioning (think of all the pretty things you could wear) also help you get comfortable being in woman's spaces
+>
+> Start a more feminine hobby whether it be make up or cooking you need to start building a feminine mindset for you can get more comfortable with your feminine side
+
 Feminine appearance only gives part of the story - you won't pass as a female by using learned masculine social cues and mannerisms. You need to learn the subtleties of [Acting Feminine](social/MANNERISMS).
 
 ## Physical Appearance
@@ -40,4 +49,4 @@ Proper [Hygiene](physical/HYGIENE) will help to accelerate the beautifying effec
 
 [Fitness Routines](physical/FITNESS) can help with the buildup of female muscular structure and fat distribution. 
 
-As you decide on the type of [Aesthetics]() you want to build, you may want to consider both [Hair Removal](physical/HAIR_REMOVAL) and getting a new [Hair Style](physical/HAIR_STYLING). *Have fun with this, you have more options now than ever before!*
+As you decide on the type of [Aesthetics](physical/AESTHETICS) you want to build, you may want to consider both [Hair Removal](physical/HAIR_REMOVAL) and getting a new [Hair Style](physical/HAIR_STYLING). *Have fun with this, you have more options now than ever before!*
