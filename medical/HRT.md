@@ -7,7 +7,7 @@ has_children: true
 
 # Hormone Replacement Therapy (HRT)
 
-> First off you need to raise your estrogen levels, there are several options for this (0 to 5). A high 
+> First off you need to raise your estrogen levels, there are several options for this. A high 
 estradiol dosage will by itself suppress testosterone down to within the normal female range. Many 
 people do however start on lower dosage resulting in high testosterone unless anti-androgen is used. 
 >
@@ -23,6 +23,18 @@ You can expect results to begin in weeks to months - See [HRT Timeline](TIMELINE
 [Blood Testing](TESTING) is one indicator of HRT efficacy, but is not the only guidemark that should be followed.
 
 Before you begin HRT, consider [Banking Your Sperm](BANKING) - even if you might not want to have children right now.
+
+## DIY vs "Legit" methods
+
+There are several ways to begin HRT
+
+* Insurance-covered: In some countries national/social healthcare may cover costs but the time to access can be months or years and also require evaluation for dysphoria (DO NOT WAIT). Other countries have employers that will cover the cost of transitioning even surgeries like facial feminization surgery - [Starbucks](https://stories.starbucks.com/stories/2018/they-are-lifesaving-starbucks-offers-expanded-benefits-for-trans-people/)[1](https://www.reddit.com/r/starbucks/comments/b1ook9/navigating_starbucks_healthcare_for_transgender/), [IKEA](https://www.ikea.com/us/en/newsroom/corporate-news/ikea-u-s-launches-pride-campaign-to-push-for-greater-progress-toward-lgbtq-inclusion-pubcf8b9e77) offer even part-time positions this benefit. Consider using this to your advantage to cover costs.
+
+* Informed Consent: There are clinics that will offer you HRT (possibly at reduced cost) in exchange for your "informed consent" - an understanding that you acknowledge the risks of the medication. US Clinics - [A post here](https://www.reddit.com/r/asktransgender/comments/d6p05q/i_compiled_every_single_informed_consent_clinic/)
+
+* DIY: In some cases you will need to order your own through gray-market online retailers. There is a list maintained in the [Transmaxxing manifesto](https://archive.org/details/transmaxxing10), and other resources on sites such as [r/TransDIY](https://www.reddit.com/r/TransDIY/)
+
+***Read the information below - to start you should consider an AA, and pick one method of estradiol.***
 
 ## Anti-Androgens (AA)
 > If your testosterone is high you might benefit from an anti-androgen, this however should only be a 
@@ -58,3 +70,5 @@ Progesterone has been shown to promote the formation of Type II lobules in breas
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4596764/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4596764/)
 
 Further cycling during pregnancy with progesterone matures lobules to Type III - mature breast tissue. This tissue is also [less susceptible to breast cancers](https://www.bcpinstitute.org/brochure---reproductive-risks.html#:~:text=Type%201%2C%202%20%26%203%20lobules%20are%20differentiated,female%20hormones%2C%20estrogen%20and%20progesterone%2C%20during%20menstrual%20cycles.). Type II tissue is also significantly more resistant to cancers than immature Type I tissue.
+
+Progesterone may be helpful after 6 months of HRT - however further research is required.
