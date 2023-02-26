@@ -24,7 +24,7 @@ After you start [HRT](../medical/HRT) and begin [Voice Training](../VOICE) you m
 > ***Top 5 things you can do to pass better***
 > 
 > 1. [Do some makeup!](physical/MAKEUP) Mascara is a 5 minute fix that has tons of feminine allure. Pick 2-3 things to do before you leave the house
-> 2. [Fix your faxial hair.](physical/HAIR_REMOVAL) If you have a 5 o'clock shadow, cover it up, concealer, whatever. *Women don't have a beard shadow*. Make sure your brows are trimmed, especially if you have a unibrow - keep 'em separated!
+> 2. [Fix your facial hair.](physical/HAIR_REMOVAL) If you have a 5 o'clock shadow, cover it up, concealer, whatever. *Women don't have a beard shadow*. Make sure your brows are trimmed, especially if you have a unibrow - keep 'em separated!
 > 3. Hips Don't Lie - [Choose clothing](physical/WARDROBE) and [do exercises](physical/FITNESS) that help to even the line between your shoulders and hips. Female figures usually have proportions with hips equal to or larger than shoulder width
 > 4. Smell Good! [Proper hygiene](physical/HYGIENE) like washing yourself, your clothes, and applying good smells like light lotions with feminine scents (flowery) and perfumes can instantly trigger "feminine" perceptions
 > 5. Sometimes, just stop talking. Being awkward and rambling on about nothing can be a social tell, particularly if you are concerned about your [voice passing](../VOICE). Also, you don't need to tell everyone you are trans, all the time! Be selective, there are negative people out there waiting to tear you down

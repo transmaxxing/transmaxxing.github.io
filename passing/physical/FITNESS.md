@@ -14,7 +14,7 @@ HRT can start changing your body to become more feminine - but feminine features
 <details>
 <summary><b>Transfeminine Fat Redistribution</b></summary>
 
-<img src="../media/fat_redis.jpg" alt="" title="">
+<img src="../../media/fat_redis.jpg" alt="" title="">
 
 </details>
 [1](https://eje.bioscientifica.com/configurable/content/journals$002feje$002f178$002f2$002fEJE-17-0496.xml)
