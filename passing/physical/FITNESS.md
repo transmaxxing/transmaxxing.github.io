@@ -1,0 +1,63 @@
+---
+layout: default
+parent: Passing as Female
+---
+
+# Fitness
+
+HRT can start changing your body to become more feminine - but feminine features are just one part of physical attractiveness for female figures. Understanding the implications of weight loss / weight gain, as well as exercising for female tone in muscle mass, can help you sculpt the figure you have wanted.
+
+## Pre-HRT Weight Optimization
+
+> Fat redistribution during hormone replacement therapy (HRT) for male to female transition refers to the redistribution of fat cells throughout the body. During HRT, female hormones, such as estrogen and progesterone, are introduced to the body, which can cause fat cells to shift from the abdomen, chest, and face to the hips, buttocks, and thighs. This redistribution of fat can create a more feminine silhouette and is an important part of transitioning for many transgender women.
+
+<details>
+<summary><b>Transfeminine Fat Redistribution</b></summary>
+
+<img src="../media/fat_redis.jpg" alt="" title="">
+
+</details>
+[1](https://eje.bioscientifica.com/configurable/content/journals$002feje$002f178$002f2$002fEJE-17-0496.xml)
+
+There is more research needed here - to be updated!
+
+## Weight Cycling
+
+There is more research needed here - to be updated!
+
+## Diet / Food
+
+Choosing the right foods for your fitness plans, goals, and body type is an important piece of the puzzle. In general you should avoid highly processed foods as well as large amounts of caffeine and alcohol. All of these can lead to digestive issues, impairment of HRT effects, or body function. 
+
+Keep hydrated - particularly with some prescribed AAs. You may dehydrate much quicker on certain medications.
+
+Be aware of how certain foods affect you - estrogen and other medications introduce chemical changes to your body that can affect your digestion!
+
+## Fitness During HRT 
+
+Some simple exercises can go a long way to help build feminine tone in muscles, and accentuate the effects of HRT in the redistribution of body fat and lowering of male muscle mass. There are 4 basic exercises that can help you get started on a fitness regimen.
+
+1. Kegel exercises are a form of exercise designed to strengthen the pelvic floor muscles, which are the muscles that support the bladder, uterus, and rectum in women.
+<br><br>
+To do Kegel exercises, start by locating the pelvic floor muscles by stopping the flow of urine midstream. Once you have identified the muscles, you can contract and relax them for 10 seconds at a time, repeating this 10 times in a row. You can also do “quick flicks” where you quickly contract and relax the muscles 10 times in a row. Aim to do at least 3 sets of 10 repetitions per day. As you get more comfortable with the exercises, you can increase the number of repetitions and sets.
+
+{: .highlight }
+> For transwomen, Kegel exercises can be especially beneficial as they can help to create a more feminine pelvic shape and strengthen the muscles used in sexual activity. Additionally, they can help to increase sexual pleasure, improve sexual performance, and strengthen pelvic floor muscles. Kegel exercises can help to prevent or treat prostate problems, such as prostate enlargement and urinary incontinence.
+
+2. Squats are a great way to work the lower body muscles, including the pelvic floor muscles. To do a squat, stand with your feet hip-width apart and your toes pointing forward. Bend your knees and lower your hips down, as if you’re sitting in a chair. Hold this position for three seconds and then stand back up. Do 10 reps.
+
+3. Lunges are another great exercise to target the lower body muscles, including the pelvic floor muscles. To do a lunge, start in a standing position. Step one foot forward and lower your hips down until your back knee is close to the ground. Push through your front heel to stand back up. Do 10 reps on each side.
+
+4. Plank exercises can help strengthen the core muscles, which can help support the pelvic floor muscles. To do a plank, start on your hands and knees. Then, extend your legs back one at a time and rest your weight on your toes and forearms. Hold this position for 30 seconds and then rest. Do three reps.
+
+## Supplements During HRT
+
+### Multivitamins and Preventing Osteoporosis
+
+If you aren't on a diet that can meet all of your nutritional needs consider a multivitamin formulated for females. Vitamins such as B12 and supplements such as Collagen can help with any hair or nail fragility. Other vitamins that may help regardless of HRT could be vitamin D, particularly in northern/southern winter exposures.
+
+Osteoporosis is a major concern when your body is not able to utilize ANY sex hormone - either testosterone or estrogen. Ensuring your levels are high enough through [appropriately dosing estrogen](../../medical/ESTRADIOL) is one factor. Ensuring enough calcium in your diet through consumption of dairy or supplementing with high calcium foods or supplemental pills is also a factor.
+
+### Other Supplements
+
+Some other supplements have anectodal value. On in particular is breast growth with fenugreek supplements. In historical terms this helped women with inducing or continuing lactation; today's benefit is based on individual experience and may or may not help with an increased breast growth pattern. The good news is, unless you are allergic it won't negatively affect your health or transition!
