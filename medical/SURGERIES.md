@@ -6,6 +6,18 @@ nav_order: 4
 
 This is a rather sensitive topic but ignoring the harm done by these surgeries wouldn't be ethical at all, trying to sweep these things under the rug isn't helpful.
 
+## Facial Feminization Surgery (FFS)
+
+Facial Feminization Surgery, when done correctly, can create valuable changes to facial aesthetics - correcting masculine features or assymetries.
+
+Facial feminization surgery (FFS) is a type of plastic surgery that is designed to make the face look more feminine. FFS involves reshaping the face, including the forehead, brow, nose, cheeks, chin, and jaw. It can also involve facial hair removal, lip augmentation, and eyelid surgery. The goal of FFS is to create a softer, more feminine look that is in line with a feminine identity. FFS is a complex and delicate procedure that requires a skilled surgeon, as the results are permanent. It is important to consult with a reputable plastic surgeon before deciding to undergo FFS, as the results may vary from person to person - no results are guaranteed.
+
+### Tracheal Shave
+
+A tracheal shave reduces the size of the Adam's apple. The procedure can be performed under either local or general anesthesia, but it is often done on an outpatient basis. A minor incision is made on the chin, and then cartilage is scraped or "shaved" away and restructured to reduce its size. The results of a tracheal shave are very noticeable - the neckline will be smoother, and the patient's Adam's apple will be much less prominent.
+
+It's important to speak with your doctor about the results you're hoping to obtain. A tracheal shave isn't done to raise or change voice pitch permanently - if a higher-sounding voice is part of your feminization goal, a separate procedure known as voice cord or voice feminization surgery may help. While increasing aesthetics, tracheal shave is not a miracle cure, and some patients have not been entirely satisfied with the outcome.
+
 ## Genital SRS
 
 To a very large degree the issue is simply bad clinics/surgeons butchering people. Most SRS results you can find when looking them up online are very bad but there are a few exception.
