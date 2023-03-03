@@ -58,3 +58,5 @@ Depending on the style you choose, your hair care routine may be different. Most
 9. Avoid tight hairstyles, such as braids or ponytails, as these can cause breakage.
 
 10. Eat a balanced diet - if you aren't or cannot, use a multivitamin to ensure your hair is getting all the nutrients it needs.
+
+***Focus Shampoo on your scalp, and Conditioner on the Ends***
