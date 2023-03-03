@@ -60,4 +60,4 @@ Osteoporosis is a major concern when your body is not able to utilize ANY sex ho
 
 ### Other Supplements
 
-Some other supplements have anectodal value. On in particular is breast growth with fenugreek supplements. In historical terms this helped women with inducing or continuing lactation; today's benefit is based on individual experience and may or may not help with an increased breast growth pattern. The good news is, unless you are allergic it won't negatively affect your health or transition!
+Some other supplements have anectodal value. One in particular is breast growth with fenugreek supplements. In historical terms this helped women with inducing or continuing lactation; today's benefit is based on individual experience and may or may not help with an increased breast growth pattern. The good news is, unless you are allergic it won't negatively affect your health or transition!

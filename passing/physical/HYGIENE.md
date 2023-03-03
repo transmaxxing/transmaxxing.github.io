@@ -39,7 +39,7 @@ You can use a dry shampoo to push wash day, or use after exercise to get a clean
 
 Depending on the style you choose, your hair care routine may be different. Most transwomen opt for longer hairstyles that appear more feminine - But you can choose many other styles that might suit you. See [Hair Styling](HAIR_STYLING)
 
-1. Wash your hair regularly with a moisturizing shampoo and conditioner. This will help keep your hair clean and healthy. Avoid shampoo/conditioner combinations, these rarely are effective and can dry out your hair.
+1. Wash your hair every 2-4 days with a moisturizing shampoo and conditioner. This will help keep your hair clean and healthy. Avoid shampoo/conditioner combinations, these rarely are effective and can dry out your hair.
 
 2. Use a wide-toothed brush or comb to detangle your hair after washing. This will help prevent breakage and split ends.
 
@@ -57,4 +57,4 @@ Depending on the style you choose, your hair care routine may be different. Most
 
 9. Avoid tight hairstyles, such as braids or ponytails, as these can cause breakage.
 
-10. Eat a balanced diet and take a multivitamin to ensure your hair is getting all the nutrients it needs.
+10. Eat a balanced diet - if you aren't or cannot, use a multivitamin to ensure your hair is getting all the nutrients it needs.
