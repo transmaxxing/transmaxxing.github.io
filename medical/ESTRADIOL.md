@@ -47,6 +47,19 @@ Estradiol pills are another form of hormone therapy for male-to-female transitio
 
 ![](../media/estradiol_dosages.jpg "Estradiol Reference Dosages")
 
+## Cycling
+{: .highlight }
+> While some anecdotal evidence points to benefits of cycling estrogen, studies have shown that consistent estrogen administration produces better results
+
+<details>
+<summary><b>Results of Estrogen Cycling</b></summary>
+
+<img src="../media/cycling-results.png" alt="" title="">
+
+</details>
+
+<br>
+
 
 ## Safety
 The blood clotting risk relative to the effective dosage is higher for oral administration but it's still safer
