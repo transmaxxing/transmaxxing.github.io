@@ -50,6 +50,36 @@ To do Kegel exercises, start by locating the pelvic floor muscles by stopping th
 
 4. Plank exercises can help strengthen the core muscles, which can help support the pelvic floor muscles. To do a plank, start on your hands and knees. Then, extend your legs back one at a time and rest your weight on your toes and forearms. Hold this position for 30 seconds and then rest. Do three reps.
 
+### Strengthening Feminine Posture
+(Courtesy to [PinkFemme](https://pinkfemme.com/the-best-workouts-to-improve-elegant-feminine-posture/))
+
+<details>
+<summary><b>Create a feminine posture by doing yoga</b></summary>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/m756Gz8de4M" title="15 minute Morning Yoga for Beginners 🔥 WEIGHT LOSS edition 🔥 Beginners Yoga Workout" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</details>
+<br> 
+
+<details>
+<summary><b>Create a feminine posture by doing pilates</b></summary>
+<br>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/CdjRQ6GG8bA" title="Gentle Pilates - 15 Minute Pilates for Beginners Workout!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</details>
+<br>
+
+<details>
+<summary><b>Create a feminine posture by doing barre workouts</b></summary>
+<br>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/YVG06j_V_TA" title="Beginner Barre Workout - TONE UP | Rebecca Louise" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</details>
+<br>
+
+<details>
+<summary><b>Create a feminine posture by doing tai chi</b></summary>
+<br>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/apIffYvzuS0" title="Tai Chi with Helen Liang" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</details>
+<br>
+
 ## Supplements During HRT
 
 ### Multivitamins and Preventing Osteoporosis

@@ -1,7 +1,7 @@
 
 WIP
 
-1. Open Posture: Women tend to take up less space with their body language, often keeping their arms and legs close to their body and maintaining a more relaxed and open posture. 
+1. Open Posture: Women tend to take up less space with their body language, often keeping their arms and legs close to their body and maintaining a more relaxed and open posture. [Exercises that can help with posture](../physical/FITNESS#strengthening-feminine-posture)
 
 2. Eye Contact: Women tend to maintain more eye contact than men, often looking away when they are feeling shy or uncomfortable.
 
