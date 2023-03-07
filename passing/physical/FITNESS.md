@@ -26,6 +26,7 @@ Due to lack of study on transwomen body changes while beginning HRT, there aren'
 - Losing weight is easier on testosterone - your body burns more calories and you have more strength to do more strenuous exercises
 - Losing weight is harder on estrogen - your metabolism is slower and your muscle strength deteriorates.
 - Gaining weight in a female profile is easier when male profile fat deposits have been depleted
+- Losing weight is not the same as a change in profile with estrogen; muscle tissue deterioration can result in a reduced weight without changing body profile
 
 The major drawbacks to this method are that: 
 
