@@ -24,6 +24,8 @@ You can expect results to begin in weeks to months - See [HRT Timeline](TIMELINE
 
 Before you begin HRT, consider [Banking Your Sperm](BANKING) - even if you might not want to have children right now.
 
+Prior to HRT be at a [healthy BMI](../passing/physical/FITNESS) - Obesity has been proven to be [higher risk for blood clot issues](https://pubmed.ncbi.nlm.nih.gov/18086925/) such as Deep Vein Thrombosis (DVT)
+
 ## DIY vs "Legit" methods
 
 There are several ways to begin HRT
