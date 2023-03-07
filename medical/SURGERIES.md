@@ -20,6 +20,9 @@ It's important to speak with your doctor about the results you're hoping to obta
 
 ## Genital SRS
 
+{: .highlight }
+> Because of higher risk of dissatisfaction with current SRS methods Transmaxxing does not recommend any form of currently available SRS
+
 To a very large degree the issue is simply bad clinics/surgeons butchering people. Most SRS results you can find when looking them up online are very bad but there are a few exception.
 
 If you look at actual studies you will find that it's not surgeries trans people benefit from. Only HRT 
