@@ -36,7 +36,7 @@ There are several ways to begin HRT
 
 * DIY: In some cases you will need to order your own through gray-market online retailers. There is a list maintained in the [Transmaxxing manifesto](https://archive.org/details/transmaxxing10), and other resources on sites such as [r/TransDIY](https://www.reddit.com/r/TransDIY/)
 
-***Read the information below - to start you should consider an AA, and pick one method of estradiol.***
+***Read the information below - Mono-estradiol is preferred in patches or injections, but for pills consider an AA***
 
 ## Anti-Androgens (AA)
 > If your testosterone is high you might benefit from an anti-androgen, this however should only be a 
