@@ -9,10 +9,13 @@ nav_order: 6
 A helpful list of terms for navigating trans subculture, with credit to [TransgenderMap](https://www.transgendermap.com/resources/words/slang-slurs/) - see that site for a fuller list. Some terms are even more specific to online communities such as 4chan or Reddit.
 
 
-"AGP"/“autogynephilia” [jargon] (noun): a controversial "disease", best described as “a man’s paraphilic tendency to be sexually aroused by the thought or image of oneself as a woman.” Considered by some to be a motivation for transition in some trans women, especially later-transitioning women. Sometimes abbreviated AGP. Adjectival autogynephilic. Please see [“Autogynephilia”: A disputed diagnosis](https://www.transgendermap.com/politics/sexology/autogynephilia/) for details on the controversy.
+"AGP"/“autogynephilia” [jargon] (noun): Sexual arousal by the thought or image of oneself as a woman. a controversial "disease", described by pseudoscientific research by Blanchard as “a man’s paraphilic tendency to be sexually aroused by the thought or image of oneself as a woman.” Considered by some to be a motivation for transition in some trans women, especially later-transitioning women. Sometimes abbreviated AGP. Adjectival autogynephilic. Please see [“Autogynephilia”: A disputed diagnosis](https://www.transgendermap.com/politics/sexology/autogynephilia/) for details on the controversy.
 
 "blanchardian" (noun):
-“blanchtard” [slur] (noun): someone who agrees with Ray Blanchard on transgender issues, especially his views on paraphilia. Portmanteau of Blanchard + retard.
+“blanchtard” [slur] (noun): believer in debunked pseudoscience in the form of the blanchard typology of MtF transsexualism. Someone who agrees with Ray Blanchard on transgender issues, especially his views on paraphilia. Portmanteau of Blanchard + retard.
+
+{: .highlight }
+> Blanchard's studies and topology has been [refuted many times](BLANCHARD). Categorization of transwomen in this way creates harmful divides. All reasons to transition are valid.
 
 boy mode [slang] (noun or verb): presenting in a “masculine” gender role: “I worked in boy mode while I finished my electrolysis.” As a verb, usually styled boymode: “He’s been boymoding everywhere but work.”
 
