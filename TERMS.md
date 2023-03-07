@@ -6,7 +6,7 @@ nav_order: 6
 # Helpful Terminology
 
 
-A helpful list of terms for navigating trans subculture, with credit to [TransgenderMap](https://www.transgendermap.com/resources/words/slang-slurs/) - see that site for a fuller list. Some terms are even more specific to online communities such as 4chan or Reddit.
+A helpful list of terms for navigating trans subculture, with credit to [TransgenderMap](https://www.transgendermap.com/resources/words/slang-slurs/) - see that site for a fuller list. Some terms are even more specific to online communities such as 4chan or Reddit. See [/tttt's 4tran dictionary](https://pdfhost.io/v/FeIk0zC2T_tttt_4tran_dictionary)
 
 
 "AGP"/“autogynephilia” [jargon] (noun): Sexual arousal by the thought or image of oneself as a woman. a controversial "disease", described by pseudoscientific research by Blanchard as “a man’s paraphilic tendency to be sexually aroused by the thought or image of oneself as a woman.” Considered by some to be a motivation for transition in some trans women, especially later-transitioning women. Sometimes abbreviated AGP. Adjectival autogynephilic. Please see [“Autogynephilia”: A disputed diagnosis](https://www.transgendermap.com/politics/sexology/autogynephilia/) for details on the controversy.
