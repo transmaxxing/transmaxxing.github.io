@@ -57,9 +57,13 @@ girlmoder [slang] (noun): someone who presents in a “feminine” gender role.
 “larper” [slur] (noun): Someone pretending to be a gender minority or presenting an inauthentic gender role. From LARP, an acronym for live-action roleplaying.
 
 > 4chan's "*shit" slang
+>
 > "luckshit" : A midshit or lateshit trans person who nonetheless passes due to fortunate genetics and/or financial resources
+>
 > "youngshit" : A youngshit is a transgender person who transitioned medically as a child.
+>
 > "midshit" : A term used on 4chan's /lgbt/ board to refer to a trans person who transitioned in a range between that of a youngshit and an oldshit. 
+>
 > "lateshit" / "oldshit" / "ancientshit" : Anyone over 25 that starts to transition. Viewed negatively by those who have transitioned earlier
 
 ma’am [slang] (verb): To be gendered as feminine, usually when you want to be: “I got ma’amed at the store today.”
