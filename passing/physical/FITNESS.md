@@ -24,9 +24,9 @@ HRT can start changing your body to become more feminine - but feminine features
 Due to lack of study on transwomen body changes while beginning HRT, there aren't peer-reviewed studies that can prove that dropping weight substantially before beginning HRT can improve outcomes such as fat redistribution or breast growth. The current reasoning is as follows:
 
 - Losing weight is easier on testosterone - your body burns more calories and you have more strength to do more strenuous exercises
-- Losing weight is harder on estrogen - your metabolism is slower and your muscle strength deteriorates.
+- Losing weight is harder on estrogen - your metabolism is slower (you burn less calories per same workout) and your muscle strength deteriorates
 - Gaining weight in a female profile is easier when male profile fat deposits have been depleted
-- Losing weight is not the same as a change in profile with estrogen; muscle tissue deterioration can result in a reduced weight without changing body profile
+- Losing weight on estrogen is not the same as a change in profile; muscle tissue deterioration can result in a reduced weight without changing body profile
 
 The major drawbacks to this method are that: 
 
