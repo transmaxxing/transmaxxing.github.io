@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 ## Refuting the Blanchard Topolygy
 
 It's mostly transphobes that push for this now but there are unfortunately a few exceptions. Countless studies have refuted the findings of Blanchard's original study, including his own follow-ups. Included here are a select few. [Source](https://vintologi.com/threads/science-regarding-transexualism.566/#post-3410)
