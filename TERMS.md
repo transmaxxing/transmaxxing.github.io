@@ -33,7 +33,7 @@ clock [slang] (verb): 1. to be recognized as transgender, esp. by a non-trans pe
 
 dilate (verb): to use a vaginal stent or dilator to maintain one’s vagina after vaginoplasty. As an insult to transwomen who have not had SRS also
 
-egg [slang] (noun): someone who is unaware, in denial, or has not come out about their gender identity.
+egg [slang] (noun): someone who is unaware or in denial about an innate sex/gender preference to be different from their birth-sex.
 
 femboy, also femboi [abbreviation] (noun): feminine boy, especially someone who identifies as a cisgender boy: “I think the Femboy Hooters meme is hilarious, but I got in trouble for calling a trans girl a femboy online.”
 
