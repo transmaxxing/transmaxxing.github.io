@@ -17,9 +17,9 @@ A helpful list of terms for navigating trans subculture, with credit to [Transge
 {: .highlight }
 > Blanchard's studies and topology has been [refuted many times](BLANCHARD). Categorization of transwomen in this way creates harmful divides. All reasons to transition are valid.
 
-boy mode [slang] (noun or verb): presenting in a “masculine” gender role: “I worked in boy mode while I finished my electrolysis.” As a verb, usually styled boymode: “He’s been boymoding everywhere but work.”
+boy mode [slang] (noun or verb): presenting in a “masculine” gender role when trans: “I worked in boy mode while I finished my electrolysis.” As a verb, usually styled boymode: “He’s been boymoding everywhere but work.”
 
-boymoder [slang] (noun): someone who presents in a “masculine” gender role.
+boymoder [slang] (noun): someone who presents in a “masculine” gender role when trans.
 
 “brick” [slur] (noun): a derogatory term for someone who does not “pass” or isn’t accepted as female.
 
@@ -47,9 +47,9 @@ gatekeeping (noun): The practice of controlling access to health services via re
 
 “gender nazi” [slur, rare] (noun): (1) a derogatory term for rigid transitioners or caregivers (e.g., “gatekeepers”) who advocate a restrictive model of care.
 
-girl mode [slang] (noun or verb): presenting in a “feminine” gender role: “I worked in girl mode while I saved for top surgery.” As a verb, usually styled girlmode: “She’s been girlmoding everywhere but work.”
+girl mode [slang] (noun or verb): presenting in a “feminine” gender role when trans: “I worked in girl mode while I saved for top surgery.” As a verb, usually styled girlmode: “She’s been girlmoding everywhere but work.”
 
-girlmoder [slang] (noun): someone who presents in a “feminine” gender role.
+girlmoder [slang] (noun): someone who presents in a “feminine” gender role trans.
 
 “homosexual transsexual” [jargon] (noun): a controversial term suggested by conservative 20th-century sexologists for trans people who identify as straight. Sometimes abbreviated HSTS.
 
