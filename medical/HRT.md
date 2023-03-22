@@ -7,12 +7,21 @@ has_children: true
 
 # Hormone Replacement Therapy (HRT)
 
+
+{: .highlight }
+> Prior to HRT be at a [healthy BMI](../passing/physical/FITNESS) - Obesity has been proven to be [higher risk for blood clot issues](https://pubmed.ncbi.nlm.nih.gov/18086925/) such as Deep Vein Thrombosis (DVT)
+
+{: .highlight }
+> Prior to HRT ensure that any health conditions that may compound with estrogen or AA administration - conditions that may affect liver or kidney function in particular
+
+***Read the information below - Mono-estradiol is preferred in patches or injections, if testosterone suppression isn't achieved you may need an AA***
+
 > First off you need to raise your estrogen levels, there are several options for this. A high 
 estradiol dosage will by itself suppress testosterone down to within the normal female range. Many 
 people do however start on lower dosage resulting in high testosterone unless anti-androgen is used. 
 >
 > You do not need official prescription to start on hormones in most countries, typically it's easy and safe 
-to simply buy it at an online store https://diyhrt.cafe
+to simply buy it at an online store such as [DIYHRT.cafe](https://diyhrt.cafe)
 
 [TransFemScience](https://transfemscience.org/articles/) also hosts a wealth of information on HRT, including experimental treatments.
 
@@ -24,7 +33,6 @@ You can expect results to begin in weeks to months - See [HRT Timeline](TIMELINE
 
 Before you begin HRT, consider [Banking Your Sperm](BANKING) - even if you might not want to have children right now.
 
-Prior to HRT be at a [healthy BMI](../passing/physical/FITNESS) - Obesity has been proven to be [higher risk for blood clot issues](https://pubmed.ncbi.nlm.nih.gov/18086925/) such as Deep Vein Thrombosis (DVT)
 
 ## DIY vs "Legit" methods
 
@@ -36,7 +44,6 @@ There are several ways to begin HRT
 
 * DIY: In some cases you will need to order your own through gray-market online retailers. There is a list maintained in the [Transmaxxing manifesto](https://archive.org/details/transmaxxing10), and other resources on sites such as [r/TransDIY](https://www.reddit.com/r/TransDIY/)
 
-***Read the information below - Mono-estradiol is preferred in patches or injections, but for pills consider an AA***
 
 ## Anti-Androgens (AA)
 > If your testosterone is high you might benefit from an anti-androgen, this however should only be a 
