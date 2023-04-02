@@ -7,6 +7,9 @@ parent: Passing as Female
 
 Transitioning from the drab world of guy cloths to the way more exciting and beautiful world of feminine cloths can be daunting! Here's some tips below, but also check out some amazing resources from [Pinkfemme](https://pinkfemme.com/category/style-and-fashion/) - they've compiled an incredible list of different styles and suitability for those pursuing a feminine transition. Some pages and content are linked here, but more is available at their site. Like it or not, some things just might not suit our body type - you will need to try it out and see what works for you. Think of this as part of the fun of femininity!
 
+{: .highlight }
+> To keep your clothes looking newer, longer be sure to pay special attention to the wash cycle. For textured clothes or fluffy clothes (and a lot of synthetics) you may want to avoid the dryer completely. Bras should always be air dried. [Mesh bags](https://www.amazon.com/Laundry-Hosiery-Stocking-Underwear-Lingerie/dp/B017NEYOQQ/) are inexpensive and can be used along with the delicate cycle to wash *some* handwash items
+
 ## Early Transition
 
 As you start HRT you will have fat redistribution, and as you approach your [body goals](FITNESS) things might not end up the same fit for you even a few months down the line.
