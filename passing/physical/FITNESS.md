@@ -36,7 +36,11 @@ The major drawbacks to this method are that:
 
 ## Weight Cycling
 
-There is more research needed here - to be updated!
+Anecdotal accounts of weight cycling do show that it could be possible to accelerate the rate of fat redistribution - however accounts of this (even well documented ones) all agree that redistribution will happen regardless of cycling.
+
+> If you decide that weight cycling is the option for you, my best advice would be to not be too hard on yourself. Nothing you do can make you lose progress – your fat distribution will always keep shifting in the right direction, the only thing you can affect is the rate at which that happens.
+
+[https://mesityl.substack.com/p/mtf-weight-cycling](https://mesityl.substack.com/p/mtf-weight-cycling)
 
 ## Diet / Food
 
