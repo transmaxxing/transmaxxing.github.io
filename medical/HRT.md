@@ -80,4 +80,12 @@ Progesterone has been shown to promote the formation of Type II lobules in breas
 
 Further cycling during pregnancy with progesterone matures lobules to Type III - mature breast tissue. This tissue is also [less susceptible to breast cancers](https://www.bcpinstitute.org/brochure---reproductive-risks.html#:~:text=Type%201%2C%202%20%26%203%20lobules%20are%20differentiated,female%20hormones%2C%20estrogen%20and%20progesterone%2C%20during%20menstrual%20cycles.). Type II tissue is also significantly more resistant to cancers than immature Type I tissue.
 
-Progesterone may be helpful after 6 months of HRT - however further research is required.
+### Cycling Progesterone
+
+This study shows interesting data on pre-menopausal cisfemales, and how progesterone affects cell growth when used at short and long cycles.
+
+> The present data strongly support the concept that physiologic secretion of P during a normal luteal phase favorably influences the control of the human breast epithelial cell cycle. It also suggests that P or related drugs may have a therapeutic value to prevent breast epithelial hyperplasia when used >10 days per month at approximate substitutive doses. 
+
+[https://www.sciencedirect.com/science/article/pii/S0015028216574822?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0015028216574822?via%3Dihub)
+
+Progesterone may be helpful for breast growth after 6 months of HRT - however further research is required on the effect with regards to transwomen
