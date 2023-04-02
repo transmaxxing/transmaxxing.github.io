@@ -19,11 +19,24 @@ Estradiol injections are a commonly used hormone therapy for male-to-female tran
 <img src="../media/injections_levels.png" alt="" title="">
 
 </details>
+<br>
+
+> You can do either subcutaneous or intramuscular regardless of what kind of E you have. SQ is generally less painful. For large volumes (>0.5ml) or if you get severe irritation doing SQ, consider IM. Despite what the internet tells you, absorbtion between the two is not meaningfully different, no particular site is "better", and you shouldn't use a different dose with different injection sites.
+
+> ***Types of Needles*** 
+>
+> Drawing from multidose vial: 21-23G
+> Drawing from single-use glass ampoule: use a filter needle
+> SQ injection: 0.5" 25-31G.
+> IM injection: 1-1.5" 21-27G.
+>
+> For needles, prefer higher gauge numbers where possible, and ideally, use a 1ml syringe.
 
 <details>
-<summary><b>Proper Intra-Muscular (IM) Injection</b></summary>
+<summary><b>Proper Injection Sites</b></summary>
 
-<img src="../media/injection-site.png" alt="" title="">
+<img src="../media/subcutaneous-injection-sites.jpg" alt="" title="">
+<img src="../media/intramuscular-injection.jpg" alt="" title="">
 
 </details>
 
