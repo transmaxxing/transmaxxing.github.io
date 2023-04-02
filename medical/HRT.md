@@ -89,3 +89,11 @@ This study shows interesting data on pre-menopausal cisfemales, and how progeste
 [https://www.sciencedirect.com/science/article/pii/S0015028216574822?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0015028216574822?via%3Dihub)
 
 Progesterone may be helpful for breast growth after 6 months of HRT - however further research is required on the effect with regards to transwomen
+
+## Pioglitazone Fat Redistrubition
+
+Thiozolidinediones have shown some initial success in speeding up fat redistribution, particularly in thighs and hips.
+
+> She was commenced on rosiglitazone 2 mg/day and after 14 months of therapy her waist size dropped to 82.5 cms and hip measurement to 94.5 cms and at this point, her right and left thigh measurements were 45×44 cms respectively. Another 6 months of treatment on Rosiglitazone lead to drop in waist & hip measurement to 82×93 cms respectively and an increase in right and left thigh measurements to 49×47 cms respectively, which gave her a more desirable body image.
+
+[https://www.endocrine-abstracts.org/ea/0019/ea0019p74](https://www.endocrine-abstracts.org/ea/0019/ea0019p74)
