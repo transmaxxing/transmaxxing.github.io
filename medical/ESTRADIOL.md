@@ -45,6 +45,9 @@ Estradiol pills are another form of hormone therapy for male-to-female transitio
 >
 > If you are going to use an Anti-Androgen short term low dose cypro (10mg/day or less) is probably the best option.
 
+You can also view the reference levels at [the calculator here](https://transfemscience.org/misc/injectable-e2-simulator/)
+<br>
+
 ![](../media/estradiol_dosages.jpg "Estradiol Reference Dosages")
 
 ## Cycling
