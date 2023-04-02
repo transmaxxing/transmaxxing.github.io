@@ -10,6 +10,8 @@ Although HRT can [reduce the thickness and growth of hair](../../medical/TIMELIN
 
 > Although keeping our bodies hair free is our desired state, accepting that some days we will wear pants or leggings instead of doing a clean shave is something every female has to contend with!
 
+> Make sure you are comfortable with the technician. Bad technicians can be painful, lead to poor removal, or both! Try to get client references or look at nonbiased reviews and testimonials
+
 See [Makeup](MAKEUP) for information on eyebrow shaping
 
 ## Temporary Solutions - Shaving, Epilating, Waxing
@@ -45,6 +47,8 @@ The cost of laser hair removal for facial hair removal can vary greatly dependin
 
 > For methods such as laser that could be painful or stinging, think about using a [lidocaine topical cream](https://www.amazon.com/dp/B09V9D171R) - Check with your technician prior to your appointment if this is acceptable for the type of procedure 
 
+> Getting laser in certain areas, such as pesky hairs near the rear/genital region also allows for the skin to undergo a lightening process. You can get some bleaching done as a 2-for-1!
+
 IPL (Intense Pulsed Light) Hair Removal is a non-invasive procedure that uses a broad spectrum of light to target and remove unwanted hair. The light is absorbed by the pigment in the hair follicle, which then destroys the hair follicle and prevents future hair growth. Unlike laser hair removal, IPL is not as concentrated and is more effective on lighter-colored hair. You might see decent results in body areas but most people would pass and get laser or electrolysis instead.
 
 Popular at-home IPL devices are [available at Amazon](https://www.amazon.com/Braun-Permanent-Removal-Cleared-Alternative-dp-B09WQRVPYP/dp/B09WQRVPYP/ref=dp_ob_title_hpc) for less than $500USD.
@@ -56,12 +60,13 @@ These methods tend to be most effective on larger body areas, with IPL as a cost
 
 Electrolysis permanent hair removal is a method of removing unwanted hair from the body using a small electric current. A fine needle is inserted into the hair follicle and an electric current is applied, which destroys the hair's growth cells. This process can be repeated until the hair follicle is completely destroyed, resulting in permanent hair removal. Electrolysis is often used on areas such as the face, legs, bikini line, and underarms. The procedure is relatively painless and can be done in a doctor's office or salon.
 
-The cost of electrolysis can vary widely depending on the area of the body being treated and the number of treatments needed. Generally, the cost of electrolysis for face and leg hair removal can range from $50 to $200 per session, with multiple sessions needed for full results.
+The cost of electrolysis can vary widely depending on the area of the body being treated and the number of treatments needed. Generally, the cost of electrolysis for face and leg hair removal can range from $50 to $200 per session, with multiple sessions needed for full results. To fully complete electrolysis for fully permanent area hair removal it may take several years of sessions.
 
 {: .highlight }
 > Laser therapy and electrolysis both produce longer-lasting effects compared to shaving. But electrolysis seems to work the best. The results are more permanent. Electrolysis also carries fewer risks and side effects, and you don’t need the maintenance treatments required for laser hair removal.
 >
 > The downside is that electrolysis must be spread out over more sessions. It can’t cover large areas at once like laser hair removal can. Your choice may depend on how quickly you want to achieve short-term hair removal.
 
-
 [- Healthline](https://www.healthline.com/health/beauty-skin-care/laser-hair-removal-vs-electrolysis#takeaway)
+
+> Electrolysis can be done after laser therapy, but at the minimum you will need 1-2 weeks of healing time to prevent skin tissue damage.
