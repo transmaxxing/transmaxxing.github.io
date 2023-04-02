@@ -50,4 +50,18 @@ This will also make you permanently infertile and thus the only way for you to h
 ## Breast Augmentation
 If you look at natural vs enhances breasts you will see a very clear difference, you can tell it's fake when it's fake (few exceptions) and it doesn't look right. A proper HRT regimen is effective in achieving mature breast development. If BA is desired be informed of the risks which include infection - which may even result in mastectomy. Proper surgical precautions are essential.
 
+### Teardrop/Gummybear BA
+
+This type of breast enhancement focuses on maximizing the natural shape of the breast when in an upright position - including a more natural "sideboob".
+
+![](https://www.virginiafacialplasticsurgery.com/wp-content/uploads/2021/01/breast-implants.jpg)
+
+[Comparing Teardrop vs Round](https://www.virginiafacialplasticsurgery.com/breast-implant-types)
+
+[Teardrop BA](https://www.sieberplasticsurgery.com/articles/what-is-teardrop-breast-augmentation/)
+
+> Due to their strength, gummy bear implants are less likely to rupture and leak compared with other silicone gel and saline forms. The risk, however, is that if gummy bear implants do leak, it’s harder to detect the leak than with saline implants. This is why screenings are important to detect any problems. For silicone implants, the U.S. Food and Drug Administration (FDA) recommends surveillance MRIs 3 years after they are placed and every 2 years thereafter.
+
+[Safety Info](https://www.healthline.com/health/gummy-bear-implants#safety)
+
 <!-- #TODO - fat grafting-->
