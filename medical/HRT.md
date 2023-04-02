@@ -59,7 +59,13 @@ health and this will be worse if it is prolonged and severe. There are cheap and
 </details>
 
 <br>
-While Spironolactone (spiro) is used in some countries as an AA - it's weak effect and higher risks makes it unappealing as a consistent AA for longer term use. In general, minimizing length of use for AA is desired.
+
+While Spironolactone (spiro) is used in some countries as an AA - it's weak effect and higher risks makes it unappealing as an AA. ***Use of spiro for any period of time is not recommended*** , as the effect of testosterone suppression is only viable with administration of under 4mg daily oral estradiol (which is a dosage much too low for feminization) and decreases testosterone suppression of dosages of 6mg daily oral estradiol.
+
+[https://www.liebertpub.com/doi/epdf/10.1089/trgh.2017.0035](https://www.liebertpub.com/doi/epdf/10.1089/trgh.2017.0035)
+
+
+***In general, minimizing length of use for AA is desired.***
 
 ## Estradiol
 
