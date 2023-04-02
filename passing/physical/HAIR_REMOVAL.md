@@ -34,11 +34,16 @@ All three methods have their pros and cons, but the main difference is that shav
 
 ## Semi-permanent Solutions - Hair Reduction
 
+{: .highlight }
+> Be sure to look for package deals in mailer ads or on online sites such as Groupon. And before you purchase a groupon call up the salon to see if they have specials that might even *beat* the Groupon offer!
+
 Laser Hair Removal is a medical procedure that uses a laser to target and remove unwanted hair. The laser emits a beam of highly concentrated light that is absorbed by the pigment in the hair follicle. The light energy is then converted to heat, which destroys the hair follicle and prevents future hair growth.
 
 Laser hair removal is a permanent hair reduction treatment. It does not guarantee complete removal of all hair, but it does significantly reduce the amount of hair in the treated area.
 
-The cost of laser hair removal for facial hair removal can vary greatly depending on the size of the area being treated and the number of treatments required. On average, most laser hair removal treatments cost between $200 and $400 per session.
+The cost of laser hair removal for facial hair removal can vary greatly depending on the size of the area being treated and the number of treatments required. On average, most laser hair removal treatments cost between $50 and $150 per session.
+
+> For methods such as laser that could be painful or stinging, think about using a [lidocaine topical cream](https://www.amazon.com/dp/B09V9D171R) - Check with your technician prior to your appointment if this is acceptable for the type of procedure 
 
 IPL (Intense Pulsed Light) Hair Removal is a non-invasive procedure that uses a broad spectrum of light to target and remove unwanted hair. The light is absorbed by the pigment in the hair follicle, which then destroys the hair follicle and prevents future hair growth. Unlike laser hair removal, IPL is not as concentrated and is more effective on lighter-colored hair. You might see decent results in body areas but most people would pass and get laser or electrolysis instead.
 
@@ -57,7 +62,6 @@ The cost of electrolysis can vary widely depending on the area of the body being
 > Laser therapy and electrolysis both produce longer-lasting effects compared to shaving. But electrolysis seems to work the best. The results are more permanent. Electrolysis also carries fewer risks and side effects, and you don’t need the maintenance treatments required for laser hair removal.
 >
 > The downside is that electrolysis must be spread out over more sessions. It can’t cover large areas at once like laser hair removal can. Your choice may depend on how quickly you want to achieve short-term hair removal.
->
-> Also, doing one procedure and then the other isn’t a good idea. For example, getting electrolysis done after laser hair removal disrupts the effects of the first procedure. Do your homework ahead of time and talk to your dermatologist about the best option. If you decide to switch hair removal procedures, you may need to wait several months before beginning.
+
 
 [- Healthline](https://www.healthline.com/health/beauty-skin-care/laser-hair-removal-vs-electrolysis#takeaway)
