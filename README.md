@@ -27,5 +27,5 @@ female with male mannerisms.
 2. Put a lot of effort into [Voice Training](VOICE) 
 3. Relocate if a social transition is too hard / impossible
 5. Change your name to something very different from your old male name
-6. Legally change your sex - [US](https://transequality.org/documents/)
+6. Legally change your sex - [US](https://transequality.org/documents/) & [UK](https://genderkit.org.uk/category/id-documents/)
 7. Maintain anonymity for safety - online and with strangers in-person
