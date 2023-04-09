@@ -16,7 +16,7 @@ Gender dysphoria is not a requirement for transitioning, and some people may cho
 
 Starting [hormone replacement therapy (HRT)](medical/HRT) is the first step when you have decided to transition.
 
-The [Transmaxxing Manifesto](https://archive.org/details/transmaxxing11) suggests the following:
+The [Transmaxxing Manifesto](https://archive.org/details/transmaxxing13) suggests the following:
 
 
 > It is also very much ideal for learning how to behave as a female in order to not stand out since people 
