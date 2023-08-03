@@ -23,7 +23,7 @@ The [Transmaxxing Manifesto](https://archive.org/details/transmaxxing13) suggest
 will see that you are a male and treat you as such rather than thinking you are just some non-trans 
 female with male mannerisms. 
 
-1. Delay your social transition until you are [Passing](passing/PASSING).
+1. Delay your social transition until you are [Passing](passing/PASSING)
 2. Put a lot of effort into [Voice Training](VOICE) 
 3. Relocate if a social transition is too hard / impossible
 5. Change your name to something very different from your old male name
