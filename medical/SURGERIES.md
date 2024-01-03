@@ -12,6 +12,22 @@ Facial Feminization Surgery, when done correctly, can create valuable changes to
 
 Facial feminization surgery (FFS) is a type of plastic surgery that is designed to make the face look more feminine. FFS involves reshaping the face, including the forehead, brow, nose, cheeks, chin, and jaw. It can also involve facial hair removal, lip augmentation, and eyelid surgery. The goal of FFS is to create a softer, more feminine look that is in line with a feminine identity. FFS is a complex and delicate procedure that requires a skilled surgeon, as the results are permanent. It is important to consult with a reputable plastic surgeon before deciding to undergo FFS, as the results may vary from person to person - no results are guaranteed.
 
+### FFS Providers & Results
+
+In many cases radical surgery can increase "passability".
+
+*Subtle FFS* makes minor changes to the face, this is the by far most common type of FFS performed.
+
+*Aggressive FFS* is radical surgery that makes significant changes. For this you have to find the right doctor, and might come with more risks/complications.
+
+Make sure you know what you are getting; It is questionable if paying a lot of money for subtle FFS actually makes sense since it's unlikely to significantly help someone pass to their own expectations.
+
+Popular and well-reviewed surgeons in the US are Keojampa, Deschamps-Braly, [Dr Toby Mayer](https://www.drtobymayer.com/ffsgallery) ([Subtle](https://www.drtobymayer.com/ffsgallery?pgid=kguqnmsr-93e0b64c-45ac-4002-80fa-fee179618c96), [Aggressive](https://www.drtobymayer.com/ffsgallery?pgid=knaqobpt-1e069aa8-43c3-490e-ac89-2dac544a1a08)), [Mardirossian](https://www.palmbeachplastics.com/) ([Subtle](https://www.instagram.com/p/CsU2eDTun84/), [Aggressive](https://www.instagram.com/p/CrtmzMZO7uf/?img_index=1)), Jumaily and Harrison Lee.
+
+Popular and well-reviewed Korean clinics are EverM, EUdental, JK, and [The Face Dental](http://www.thefacedental.com/customer/beafter.asp). They all do double jaw and are good with genioplasty.
+
+
+
 ### Tracheal Shave
 
 A tracheal shave reduces the size of the Adam's apple. The procedure can be performed under either local or general anesthesia, but it is often done on an outpatient basis. A minor incision is made on the chin, and then cartilage is scraped or "shaved" away and restructured to reduce its size. The results of a tracheal shave are very noticeable - the neckline will be smoother, and the patient's Adam's apple will be much less prominent.
